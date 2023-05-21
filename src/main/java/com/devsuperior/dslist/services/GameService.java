@@ -2,7 +2,6 @@ package com.devsuperior.dslist.services;
 
 import java.util.List;
 
-import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -17,7 +16,6 @@ public class GameService {
     private GameRepository gameRepository;
 
     public List<GameMinDTO> findAll() {
-        var gameMinDTO = new GameMinDTO();
         List<Game> result = gameRepository.findAll();
         return result.stream().map(x -> new GameMinDTO(x)).toList();
     }
