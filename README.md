@@ -6,15 +6,11 @@ Inscreva-se para receber no seu email:
 
 https://devsuperior.com.br
 
-    ATENÇÃO: os conteúdos ficarão disponíveis somente até domingo. Então organize-se, e bora pra cima! 
-
 **2. Tem alguma dúvida?**
 
 Envie uma mensagem pra gente no email que chegou pra você no ato da sua inscrição.
 
 ## Calendário
-
-Os conteúdos ficarão temporariamente disponíveis no nosso canal de eventos. Ative o lembrete:
 
 https://www.youtube.com/@DevsuperiorJavaSpring
 
